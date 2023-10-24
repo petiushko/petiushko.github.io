@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Talks | Dr.Alex</title>
+    <link>https://petiushko.info/tag/tech-talks/</link>
+      <atom:link href="https://petiushko.info/tag/tech-talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tech Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Tech Talks</title>
+      <link>https://petiushko.info/tag/tech-talks/</link>
+    </image>
+    
+    <item>
+      <title>Nuro Tech Talks</title>
+      <link>https://petiushko.info/project/2022_nuro/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2022_nuro/</guid>
+      <description>&lt;p&gt;Negotiation and organization of a company-wide (&lt;a href=&#34;https://www.nuro.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuro&lt;/a&gt;) technical talk series called &lt;a href=&#34;https://www.youtube.com/playlist?list=PLjbUVJgrbvfnyEXcYwEsTTLnsHu9_cuJa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuro Tech Talks&lt;/a&gt; with top researchers and professors from Academia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

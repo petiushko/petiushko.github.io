@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In Russian | Dr.Alex</title>
+    <link>https://petiushko.info/category/in-russian/</link>
+      <atom:link href="https://petiushko.info/category/in-russian/index.xml" rel="self" type="application/rss+xml" />
+    <description>In Russian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>In Russian</title>
+      <link>https://petiushko.info/category/in-russian/</link>
+    </image>
+    
+    <item>
+      <title>Self-driving: Introduction, Challenges and Open Questions</title>
+      <link>https://petiushko.info/talk/self-driving-introduction-challenges-and-open-questions/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/self-driving-introduction-challenges-and-open-questions/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by &lt;a href=&#34;https://dls.samcs.ru/en/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to make a presentation about the current landscape of research in Autonomous Driving Area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interviews in AI</title>
+      <link>https://petiushko.info/talk/interviews-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:30:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry in AI</title>
+      <link>https://petiushko.info/talk/industry-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/industry-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN Adversarial Robustness in the Real World</title>
+      <link>https://petiushko.info/talk/cnn-adversarial-robustness-in-the-real-world/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-adversarial-robustness-in-the-real-world/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;http://www.int.unn.ru/news/15-aprelya-otkrytaya-lektsiya-nnrc-huawei-dlya-studentov-i-prepodavatelej-na-baze-nngu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; to make a presentation at &lt;a href=&#34;http://eng.unn.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lobachevsky University&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNN Robustness research: Application to face detectors and face ID systems</title>
+      <link>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</guid>
+      <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://opentalks.ai/en/details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenTalks.AI&lt;/a&gt; about the advances in adversarial robustness for face detection and identification: &lt;a href=&#34;https://speakerdeck.com/opentalks2/opentalks-dot-ai-alieksandr-pietiushko-issliedovaniie-ustoichivosti-sviertochnykh-nieirosietiei-na-primierie-sistiem-dietiektsii-i-raspoznavaniia-lits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SpeakerDeck&lt;/a&gt; presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence: Problems and Prospects</title>
+      <link>https://petiushko.info/publication/2020_ai/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2020_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN Robustness Research. The Theory</title>
+      <link>https://petiushko.info/post/2020_08_habr/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/post/2020_08_habr/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://habr.com/ru/company/huawei/blog/509816/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; about adversarial robustness (in Russian) on the most known Russion technical resource &lt;a href=&#34;https://habr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;habr.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Adversarial Machine Learning to Analyze the NN Robustness in the Real World</title>
+      <link>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</guid>
+      <description>&lt;p&gt;A presentation during &lt;a href=&#34;https://www.spice-agency.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spice IT&lt;/a&gt; Computer Vision Online Meetup.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning in Real World</title>
+      <link>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://chebyshev.spbu.ru/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chebyshev Lab&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning</title>
+      <link>https://petiushko.info/talk/adversarial-machine-learning/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/adversarial-machine-learning/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://petiushko.info/files/20191012_FestivalNauki_Program.png&#34;&gt;invited&lt;/a&gt; by 2019 &lt;a href=&#34;http://festivalnauki.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Festival&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackathon Metric Learning for facial descriptors</title>
+      <link>https://petiushko.info/project/2019_hackathon/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2019_hackathon/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://web.archive.org/web/20200629223207/http://school-raai.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by MIPT, RAAI, &lt;a href=&#34;https://web.archive.org/web/20210120191858/http://school-raai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer School on Artificial Intelligence&lt;/a&gt; to create a &lt;a href=&#34;https://web.archive.org/web/20200629223348/http://school-raai.org/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hackathon&lt;/a&gt; and make a corresponding presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metric Learning for facial descriptors</title>
+      <link>https://petiushko.info/talk/metric-learning-for-facial-descriptors/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/metric-learning-for-facial-descriptors/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://web.archive.org/web/20200629223207/http://school-raai.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by MIPT, RAAI, &lt;a href=&#34;https://web.archive.org/web/20210120191858/http://school-raai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer School on Artificial Intelligence&lt;/a&gt; to create a hackathon and make a corresponding presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision (updated)</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision-updated/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision-updated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success and introduction to FaceID</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of Optimal Non-linear Stretching of Symmetric Matrices for Recognition Tasks</title>
+      <link>https://petiushko.info/publication/2017_cmpmat/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2017_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Optimal Non-linear Stretching of Self-comparison Matrices for 1D Signals</title>
+      <link>https://petiushko.info/publication/2016_cmpmat/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chomsky Hierarchy for Matrices of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2016_chomsky/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Context-free Bigram Languages</title>
+      <link>https://petiushko.info/publication/2015_cfree/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2015_cfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Ring Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_ring/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_ring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_reg_freq/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_reg_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_bigram/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_bigram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Asymptotic Estimations for Bigram Languages</title>
+      <link>https://petiushko.info/publication/2012_asympt/</link>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_asympt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency Languages</title>
+      <link>https://petiushko.info/publication/2012_freq/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Frequency Bigram Language</title>
+      <link>https://petiushko.info/publication/2012_card/</link>
+      <pubDate>Wed, 11 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2011_freq/</link>
+      <pubDate>Wed, 07 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Application of Markov Random Fileds for Noise Removal</title>
+      <link>https://petiushko.info/publication/2011_cmrf/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_cmrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields and Their Relationship with Markov Chains</title>
+      <link>https://petiushko.info/publication/2010_mrf_mc/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf_mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields</title>
+      <link>https://petiushko.info/publication/2010_mrf/</link>
+      <pubDate>Wed, 03 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1D Noisy Recognition Analysis (Shortened Version)</title>
+      <link>https://petiushko.info/publication/2006_1d_rec_brief/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2006_1d_rec_brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1D Noisy Recognition Analysis</title>
+      <link>https://petiushko.info/publication/2005_1d_rec/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2005_1d_rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

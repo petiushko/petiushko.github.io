@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perception | Dr.Alex</title>
+    <link>https://petiushko.info/tag/perception/</link>
+      <atom:link href="https://petiushko.info/tag/perception/index.xml" rel="self" type="application/rss+xml" />
+    <description>Perception</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Perception</title>
+      <link>https://petiushko.info/tag/perception/</link>
+    </image>
+    
+    <item>
+      <title>Autonomous Driving: From Basics to Behavior Challenges</title>
+      <link>https://petiushko.info/talk/autonomous-driving-from-basics-to-behavior-challenges/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/autonomous-driving-from-basics-to-behavior-challenges/</guid>
+      <description>&lt;p&gt;Presentation during &lt;a href=&#34;https://nnov.hse.ru/en/ma/vision/mcv_industrial_webinars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Industrial Webinars&lt;/a&gt; Stream of Master&amp;rsquo;s Programme &amp;lsquo;&lt;a href=&#34;https://nnov.hse.ru/en/ma/vision/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master of Computer Vision&lt;/a&gt;&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Autonomous Driving</title>
+      <link>https://petiushko.info/talk/artificial-intelligence-for-autonomous-driving/</link>
+      <pubDate>Tue, 06 Jun 2023 11:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/artificial-intelligence-for-autonomous-driving/</guid>
+      <description>&lt;p&gt;I was invited as a &lt;a href=&#34;https://cai.ieee.org/2023/aleksandr-petiushko/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;panelist&lt;/a&gt; for the &amp;lsquo;Artificial Intelligence for Autonomous Driving&amp;rsquo; panel discussion on &lt;a href=&#34;https://cai.ieee.org/2023/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Conference on Artificial Intelligence 2023&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-driving: Introduction, Challenges and Open Questions</title>
+      <link>https://petiushko.info/talk/self-driving-introduction-challenges-and-open-questions/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/self-driving-introduction-challenges-and-open-questions/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by &lt;a href=&#34;https://dls.samcs.ru/en/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to make a presentation about the current landscape of research in Autonomous Driving Area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomy: Introduction of ML for High School</title>
+      <link>https://petiushko.info/talk/autonomy-introduction-of-ml-for-high-school/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/autonomy-introduction-of-ml-for-high-school/</guid>
+      <description>&lt;p&gt;Presentation done for students of &lt;a href=&#34;https://mvhs.mvla.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mountain View High School&lt;/a&gt; with the overview of the Autonomy Stack, related problems, and possible new jobs that students can face in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of Self-Driving Vehicle Stack of Technologies</title>
+      <link>https://petiushko.info/talk/overview-of-self-driving-vehicle-stack-of-technologies/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/overview-of-self-driving-vehicle-stack-of-technologies/</guid>
+      <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the fundamentals and challenges of Self-driving stack during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena928/4475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer school on Modern Methods for Information Theory, Optimization and Control&lt;/a&gt;. &lt;a href=&#34;https://cloud01.sochisirius.ru/index.php/s/9x6X5nBrzqNEBjP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;. Also, I served there as a Huawei representative leading the research track related to self-driving (prediction task).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

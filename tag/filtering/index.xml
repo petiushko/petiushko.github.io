@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filtering | Dr.Alex</title>
+    <link>https://petiushko.info/tag/filtering/</link>
+      <atom:link href="https://petiushko.info/tag/filtering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Filtering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Filtering</title>
+      <link>https://petiushko.info/tag/filtering/</link>
+    </image>
+    
+    <item>
+      <title>Depth Image Generation Utilizing Pseudoframes Each Comprising Multiple Phase Images</title>
+      <link>https://petiushko.info/publication/patent_2015_imagen/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_imagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Face Recognition System with Face Recognition Based on Two-Dimensional Grid Transform</title>
+      <link>https://petiushko.info/publication/patent_2015_frgrid/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_frgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic hand gesture recognition with selective enabling based on detected hand velocity</title>
+      <link>https://petiushko.info/publication/patent_2015_dynamic/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion compensation method and apparatus for depth images</title>
+      <link>https://petiushko.info/publication/patent_2015_mcomp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_mcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-domain acoustic echo control</title>
+      <link>https://petiushko.info/publication/patent_2014_aec/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_aec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast echo gain change detection</title>
+      <link>https://petiushko.info/publication/patent_2014_egcd/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_egcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic vector based network echo cancellation</title>
+      <link>https://petiushko.info/publication/patent_2014_stochnec/</link>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_stochnec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

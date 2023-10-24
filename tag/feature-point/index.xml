@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature Point | Dr.Alex</title>
+    <link>https://petiushko.info/tag/feature-point/</link>
+      <atom:link href="https://petiushko.info/tag/feature-point/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature Point</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Feature Point</title>
+      <link>https://petiushko.info/tag/feature-point/</link>
+    </image>
+    
+    <item>
+      <title>Feature Point Based Robust Three-Dimensional Rigid Body Registration</title>
+      <link>https://petiushko.info/publication/patent_2014_fp/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_fp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head Registration</title>
+      <link>https://petiushko.info/demo/2012_fp/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_fp/</guid>
+      <description>&lt;p&gt;Marks on heads - 3D feature points. Black marks - feature points without correspondence. Blue marks (and dotted lines between them) - feature points with established correspondence.&lt;/p&gt;
+&lt;p&gt;Frameskip - 5 frames.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

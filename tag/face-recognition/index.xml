@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Face Recognition | Dr.Alex</title>
+    <link>https://petiushko.info/tag/face-recognition/</link>
+      <atom:link href="https://petiushko.info/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Face Recognition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Face Recognition</title>
+      <link>https://petiushko.info/tag/face-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Quadric Hypersurface Intersection for Manifold Learning in Feature Space</title>
+      <link>https://petiushko.info/publication/conf_2022_quadr/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_quadr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Hypothesis in Data Analysis: Double Geometrically-Probabilistic Approach to Manifold Dimension Estimation</title>
+      <link>https://petiushko.info/publication/arxiv_2021_manifold/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2021_manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darker than Black-Box: Face Reconstruction from Similarity Queries</title>
+      <link>https://petiushko.info/publication/arxiv_2021_darker/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2021_darker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN Adversarial Robustness in the Real World</title>
+      <link>https://petiushko.info/talk/cnn-adversarial-robustness-in-the-real-world/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-adversarial-robustness-in-the-real-world/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;http://www.int.unn.ru/news/15-aprelya-otkrytaya-lektsiya-nnrc-huawei-dlya-studentov-i-prepodavatelej-na-baze-nngu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; to make a presentation at &lt;a href=&#34;http://eng.unn.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lobachevsky University&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNN Robustness research: Application to face detectors and face ID systems</title>
+      <link>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</guid>
+      <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://opentalks.ai/en/details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenTalks.AI&lt;/a&gt; about the advances in adversarial robustness for face detection and identification: &lt;a href=&#34;https://speakerdeck.com/opentalks2/opentalks-dot-ai-alieksandr-pietiushko-issliedovaniie-ustoichivosti-sviertochnykh-nieirosietiei-na-primierie-sistiem-dietiektsii-i-raspoznavaniia-lits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SpeakerDeck&lt;/a&gt; presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AdvHat: Real-World Adversarial Attack on ArcFace Face ID System</title>
+      <link>https://petiushko.info/publication/conf_2021_advhat/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_advhat/</guid>
+      <description>&lt;p&gt;Mentioned in &lt;a href=&#34;https://youtu.be/sSVRgSUq2rA?t=1585&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNN Robustness research. Application to face detectors and face ID systems</title>
+      <link>https://petiushko.info/talk/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</guid>
+      <description>&lt;p&gt;I made the presentation about the adversarial robustness theory and our publications in this area during the Huwei Workshop.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black-Box Face Recovery from Identity Features</title>
+      <link>https://petiushko.info/publication/conf_2020_bbrecovery/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2020_bbrecovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Adversarial Machine Learning to Analyze the NN Robustness in the Real World</title>
+      <link>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</guid>
+      <description>&lt;p&gt;A presentation during &lt;a href=&#34;https://www.spice-agency.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spice IT&lt;/a&gt; Computer Vision Online Meetup.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning in Real World</title>
+      <link>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://chebyshev.spbu.ru/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chebyshev Lab&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Adversarial Patches: Real-World Attack on ArcFace-100 Face Recognition System</title>
+      <link>https://petiushko.info/publication/conf_2019_advpatch/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_advpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world Attack on MTCNN Face Detection System</title>
+      <link>https://petiushko.info/publication/conf_2019_mtcnn/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_mtcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning</title>
+      <link>https://petiushko.info/talk/adversarial-machine-learning/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/adversarial-machine-learning/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://petiushko.info/files/20191012_FestivalNauki_Program.png&#34;&gt;invited&lt;/a&gt; by 2019 &lt;a href=&#34;http://festivalnauki.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Festival&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackathon Metric Learning for facial descriptors</title>
+      <link>https://petiushko.info/project/2019_hackathon/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2019_hackathon/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://web.archive.org/web/20200629223207/http://school-raai.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by MIPT, RAAI, &lt;a href=&#34;https://web.archive.org/web/20210120191858/http://school-raai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer School on Artificial Intelligence&lt;/a&gt; to create a &lt;a href=&#34;https://web.archive.org/web/20200629223348/http://school-raai.org/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hackathon&lt;/a&gt; and make a corresponding presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metric Learning for facial descriptors</title>
+      <link>https://petiushko.info/talk/metric-learning-for-facial-descriptors/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/metric-learning-for-facial-descriptors/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://web.archive.org/web/20200629223207/http://school-raai.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by MIPT, RAAI, &lt;a href=&#34;https://web.archive.org/web/20210120191858/http://school-raai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer School on Artificial Intelligence&lt;/a&gt; to create a hackathon and make a corresponding presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success and introduction to FaceID</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Region of Interest Tracking Based on Key Frame Matching</title>
+      <link>https://petiushko.info/publication/patent_2016_3droi/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_3droi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Face Recognition System with Face Recognition Based on Two-Dimensional Grid Transform</title>
+      <link>https://petiushko.info/publication/patent_2015_frgrid/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_frgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Point Based Robust Three-Dimensional Rigid Body Registration</title>
+      <link>https://petiushko.info/publication/patent_2014_fp/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_fp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head Tracking and Gaze Detection</title>
+      <link>https://petiushko.info/demo/2012_track_gaze/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_track_gaze/</guid>
+      <description>&lt;p&gt;Kinect 3D camera is used to track human gaze detection.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Head Registration</title>
+      <link>https://petiushko.info/demo/2012_fp/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_fp/</guid>
+      <description>&lt;p&gt;Marks on heads - 3D feature points. Black marks - feature points without correspondence. Blue marks (and dotted lines between them) - feature points with established correspondence.&lt;/p&gt;
+&lt;p&gt;Frameskip - 5 frames.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2D Head Pose Estimation</title>
+      <link>https://petiushko.info/demo/2012_ellipse/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_ellipse/</guid>
+      <description>&lt;p&gt;Due to the simple nature of the algorithm, head pose estimation works adequately only in XY plane.&lt;/p&gt;
+&lt;p&gt;Left pic - original film, right pic - human body only extracted from the previous one.&lt;/p&gt;
+&lt;p&gt;Red rectangle - head area, blue ellipse - head approximation, green line - head main direction in XY plane.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

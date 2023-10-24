@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Depth Image | Dr.Alex</title>
+    <link>https://petiushko.info/tag/depth-image/</link>
+      <atom:link href="https://petiushko.info/tag/depth-image/index.xml" rel="self" type="application/rss+xml" />
+    <description>Depth Image</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Depth Image</title>
+      <link>https://petiushko.info/tag/depth-image/</link>
+    </image>
+    
+    <item>
+      <title>Three-Dimensional Region of Interest Tracking Based on Key Frame Matching</title>
+      <link>https://petiushko.info/publication/patent_2016_3droi/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_3droi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor with evaluation layer implementing software and hardware algorithms of different precision</title>
+      <link>https://petiushko.info/publication/patent_2016_improc/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_improc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatus for merging depth images generated using distinct depth imaging techniques</title>
+      <link>https://petiushko.info/publication/patent_2016_merge/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Gesture Recognition System with Static Hand Pose Recognition Based on First and Second Sets of Features</title>
+      <link>https://petiushko.info/publication/patent_2015_feat/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_feat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion compensation method and apparatus for depth images</title>
+      <link>https://petiushko.info/publication/patent_2015_mcomp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_mcomp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

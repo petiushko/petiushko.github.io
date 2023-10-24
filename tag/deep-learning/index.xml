@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Dr.Alex</title>
+    <link>https://petiushko.info/tag/deep-learning/</link>
+      <atom:link href="https://petiushko.info/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://petiushko.info/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Mutual modality learning for video action classification</title>
+      <link>https://petiushko.info/publication/journal_2023_mml/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_mml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many Heads but One Brain: Fusion Brain - a Competition and a Single Multimodal Multitask Architecture</title>
+      <link>https://petiushko.info/publication/journal_2023_fb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Uncertainty Quantification for Single Deterministic Neural Network</title>
+      <link>https://petiushko.info/publication/conf_2022_nuq/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_nuq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed Embeddings for Certified Few-Shot Learning</title>
+      <link>https://petiushko.info/publication/conf_2022_smoothed_emb/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_smoothed_emb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics and Theory in Deep Learning with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the importance of mathematics and theory knowledge when working inside ML/DL domain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certified Robustness via Randomized Smoothing over Multiplicative Parameters of Input Transformations</title>
+      <link>https://petiushko.info/publication/conf_2022_cert_mult/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_cert_mult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadric Hypersurface Intersection for Manifold Learning in Feature Space</title>
+      <link>https://petiushko.info/publication/conf_2022_quadr/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_quadr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-Cert: A Probabilistic Approach to Certify General Robustness of Neural Networks</title>
+      <link>https://petiushko.info/publication/conf_2022_cc_cert/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_cc_cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry-Inspired Top-K Adversarial Perturbations</title>
+      <link>https://petiushko.info/publication/conf_2022_topk/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_topk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Uncertainty Quantification for Single Deterministic Neural Network</title>
+      <link>https://petiushko.info/publication/conf_2021_nuq/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_nuq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interviews in Deep Learning research with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/interviews-in-deep-learning-research-with-aleksandr-petiushko/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-deep-learning-research-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the different stuff around ML/DL interviews, how to prepare, what to expect, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manifold Hypothesis in Data Analysis: Double Geometrically-Probabilistic Approach to Manifold Dimension Estimation</title>
+      <link>https://petiushko.info/publication/arxiv_2021_manifold/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2021_manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darker than Black-Box: Face Reconstruction from Similarity Queries</title>
+      <link>https://petiushko.info/publication/arxiv_2021_darker/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2021_darker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDMMT: Multidomain Multimodal Transformer for Video Retrieval</title>
+      <link>https://petiushko.info/publication/conf_2021_mdmmt/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_mdmmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdvHat: Real-World Adversarial Attack on ArcFace Face ID System</title>
+      <link>https://petiushko.info/publication/conf_2021_advhat/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_advhat/</guid>
+      <description>&lt;p&gt;Mentioned in &lt;a href=&#34;https://youtu.be/sSVRgSUq2rA?t=1585&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robustness Threats of Differential Privacy</title>
+      <link>https://petiushko.info/publication/conf_2020_diffpriv/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2020_diffpriv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence: Problems and Prospects</title>
+      <link>https://petiushko.info/publication/2020_ai/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2020_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black-Box Face Recovery from Identity Features</title>
+      <link>https://petiushko.info/publication/conf_2020_bbrecovery/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2020_bbrecovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Adversarial Patches: Real-World Attack on ArcFace-100 Face Recognition System</title>
+      <link>https://petiushko.info/publication/conf_2019_advpatch/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_advpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world Attack on MTCNN Face Detection System</title>
+      <link>https://petiushko.info/publication/conf_2019_mtcnn/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_mtcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision (updated)</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision-updated/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision-updated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success and introduction to FaceID</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

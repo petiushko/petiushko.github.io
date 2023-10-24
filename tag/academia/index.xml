@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academia | Dr.Alex</title>
+    <link>https://petiushko.info/tag/academia/</link>
+      <atom:link href="https://petiushko.info/tag/academia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Academia</title>
+      <link>https://petiushko.info/tag/academia/</link>
+    </image>
+    
+    <item>
+      <title>Mathematics and Theory in Deep Learning with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the importance of mathematics and theory knowledge when working inside ML/DL domain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomy Challenges</title>
+      <link>https://petiushko.info/talk/autonomy-challenges/</link>
+      <pubDate>Tue, 11 Oct 2022 18:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/autonomy-challenges/</guid>
+      <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://www.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Berkeley&lt;/a&gt; lecture organized by &lt;a href=&#34;https://deepdrive.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley DeepDrive&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

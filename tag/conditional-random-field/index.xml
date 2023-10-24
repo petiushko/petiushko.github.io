@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conditional Random Field | Dr.Alex</title>
+    <link>https://petiushko.info/tag/conditional-random-field/</link>
+      <atom:link href="https://petiushko.info/tag/conditional-random-field/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conditional Random Field</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Conditional Random Field</title>
+      <link>https://petiushko.info/tag/conditional-random-field/</link>
+    </image>
+    
+    <item>
+      <title>On Application of Markov Random Fileds for Noise Removal</title>
+      <link>https://petiushko.info/publication/2011_cmrf/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_cmrf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

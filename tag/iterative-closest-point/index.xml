@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iterative Closest Point | Dr.Alex</title>
+    <link>https://petiushko.info/tag/iterative-closest-point/</link>
+      <atom:link href="https://petiushko.info/tag/iterative-closest-point/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iterative Closest Point</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Iterative Closest Point</title>
+      <link>https://petiushko.info/tag/iterative-closest-point/</link>
+    </image>
+    
+    <item>
+      <title>Three-Dimensional Region of Interest Tracking Based on Key Frame Matching</title>
+      <link>https://petiushko.info/publication/patent_2016_3droi/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_3droi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Face Recognition System with Face Recognition Based on Two-Dimensional Grid Transform</title>
+      <link>https://petiushko.info/publication/patent_2015_frgrid/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_frgrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

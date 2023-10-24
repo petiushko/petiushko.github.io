@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Transformations | Dr.Alex</title>
+    <link>https://petiushko.info/tag/image-transformations/</link>
+      <atom:link href="https://petiushko.info/tag/image-transformations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Transformations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jan 2023 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Image Transformations</title>
+      <link>https://petiushko.info/tag/image-transformations/</link>
+    </image>
+    
+    <item>
+      <title>Certified Robustness: Fundamentals and Challenges</title>
+      <link>https://petiushko.info/talk/certified-robustness-fundamentals-and-challenges/</link>
+      <pubDate>Tue, 24 Jan 2023 18:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/certified-robustness-fundamentals-and-challenges/</guid>
+      <description>&lt;p&gt;Presentation made for webinars&amp;rsquo; stream of &lt;a href=&#34;https://ntrlab.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTR LABS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certified Robustness via Randomized Smoothing over Multiplicative Parameters of Input Transformations</title>
+      <link>https://petiushko.info/publication/conf_2022_cert_mult/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_cert_mult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-Cert: A Probabilistic Approach to Certify General Robustness of Neural Networks</title>
+      <link>https://petiushko.info/publication/conf_2022_cc_cert/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_cc_cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdvHat: Real-World Adversarial Attack on ArcFace Face ID System</title>
+      <link>https://petiushko.info/publication/conf_2021_advhat/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_advhat/</guid>
+      <description>&lt;p&gt;Mentioned in &lt;a href=&#34;https://youtu.be/sSVRgSUq2rA?t=1585&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Adversarial Patches: Real-World Attack on ArcFace-100 Face Recognition System</title>
+      <link>https://petiushko.info/publication/conf_2019_advpatch/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_advpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world Attack on MTCNN Face Detection System</title>
+      <link>https://petiushko.info/publication/conf_2019_mtcnn/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_mtcnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

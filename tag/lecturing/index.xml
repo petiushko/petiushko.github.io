@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecturing | Dr.Alex</title>
+    <link>https://petiushko.info/tag/lecturing/</link>
+      <atom:link href="https://petiushko.info/tag/lecturing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lecturing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Lecturing</title>
+      <link>https://petiushko.info/tag/lecturing/</link>
+    </image>
+    
+    <item>
+      <title>School of Huawei Advanced Research Education</title>
+      <link>https://petiushko.info/project/2019_share/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2019_share/</guid>
+      <description>&lt;p&gt;The main technical coordinator and the owner of &lt;em&gt;Machine Learning and Computer Vision&lt;/em&gt; specialization of the &lt;a href=&#34;https://sharemsu.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Huawei Advanced Research Education&lt;/a&gt; (briefly &lt;strong&gt;SHARE&lt;/strong&gt;) at &lt;a href=&#34;https://www.msu.ru/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lomonosov Moscow State University&lt;/a&gt;, the biggest Russian University.&lt;/p&gt;
+&lt;p&gt;Faculties included: Mechanics and Mathematics, Computational Mathematics and Cybernetics, Physics, Space Research.&lt;/p&gt;
+&lt;p&gt;Responsibilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizing the whole schedule of lectures (negotiation with technical experts and professors from both sides: Academia and Industry);&lt;/li&gt;
+&lt;li&gt;Maintaining the &lt;em&gt;Machine Learning and Computer Vision&lt;/em&gt; specialization;&lt;/li&gt;
+&lt;li&gt;Creating and teaching Computer Vision, Machine Learning and Python courses.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

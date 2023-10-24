@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://petiushko.info/sitemap.xml

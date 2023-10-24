@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Dr.Alex</title>
+    <link>https://petiushko.info/tag/python/</link>
+      <atom:link href="https://petiushko.info/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://petiushko.info/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Python imresize</title>
+      <link>https://petiushko.info/project/2017_imresize/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2017_imresize/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/fatheral/matlab_imresize&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt; written in Python mimicking the MatLab &lt;strong&gt;imresize()&lt;/strong&gt; function which is often used for super-resolution challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

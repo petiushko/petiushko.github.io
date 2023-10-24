@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Dr.Alex</title>
+    <link>https://petiushko.info/tag/machine-learning/</link>
+      <atom:link href="https://petiushko.info/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://petiushko.info/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Mathematics and Theory in Deep Learning with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the importance of mathematics and theory knowledge when working inside ML/DL domain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interviews in Deep Learning research with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/interviews-in-deep-learning-research-with-aleksandr-petiushko/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-deep-learning-research-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the different stuff around ML/DL interviews, how to prepare, what to expect, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for data compression</title>
+      <link>https://petiushko.info/publication/patent_2018_compression/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2018_compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target image generation utilizing a functional based on functions of information from other images</title>
+      <link>https://petiushko.info/publication/patent_2016_func/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_func/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Region of Interest Tracking Based on Key Frame Matching</title>
+      <link>https://petiushko.info/publication/patent_2016_3droi/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_3droi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatus for merging depth images generated using distinct depth imaging techniques</title>
+      <link>https://petiushko.info/publication/patent_2016_merge/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth Image Generation Utilizing Pseudoframes Each Comprising Multiple Phase Images</title>
+      <link>https://petiushko.info/publication/patent_2015_imagen/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_imagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Face Recognition System with Face Recognition Based on Two-Dimensional Grid Transform</title>
+      <link>https://petiushko.info/publication/patent_2015_frgrid/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_frgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor with Static Hand Pose Recognition Utilizing Contour Triangulation and Flattening</title>
+      <link>https://petiushko.info/publication/patent_2015_triangle/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_triangle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Gesture Recognition System with Static Hand Pose Recognition Based on First and Second Sets of Features</title>
+      <link>https://petiushko.info/publication/patent_2015_feat/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_feat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with static hand pose recognition based on dynamic warping</title>
+      <link>https://petiushko.info/publication/patent_2015_warping/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_warping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with computationally-efficient static hand pose recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_static/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite state machine cursor and dynamic gesture detector recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_gesture/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic hand gesture recognition with selective enabling based on detected hand velocity</title>
+      <link>https://petiushko.info/publication/patent_2015_dynamic/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion compensation method and apparatus for depth images</title>
+      <link>https://petiushko.info/publication/patent_2015_mcomp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_mcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition method and apparatus based on analysis of multiple candidate boundaries</title>
+      <link>https://petiushko.info/publication/patent_2015_palm/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_palm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

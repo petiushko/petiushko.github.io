@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organization | Dr.Alex</title>
+    <link>https://petiushko.info/tag/organization/</link>
+      <atom:link href="https://petiushko.info/tag/organization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Organization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Organization</title>
+      <link>https://petiushko.info/tag/organization/</link>
+    </image>
+    
+    <item>
+      <title>Nuro Tech Talks</title>
+      <link>https://petiushko.info/project/2022_nuro/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2022_nuro/</guid>
+      <description>&lt;p&gt;Negotiation and organization of a company-wide (&lt;a href=&#34;https://www.nuro.ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuro&lt;/a&gt;) technical talk series called &lt;a href=&#34;https://www.youtube.com/playlist?list=PLjbUVJgrbvfnyEXcYwEsTTLnsHu9_cuJa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuro Tech Talks&lt;/a&gt; with top researchers and professors from Academia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>School of Huawei Advanced Research Education</title>
+      <link>https://petiushko.info/project/2019_share/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2019_share/</guid>
+      <description>&lt;p&gt;The main technical coordinator and the owner of &lt;em&gt;Machine Learning and Computer Vision&lt;/em&gt; specialization of the &lt;a href=&#34;https://sharemsu.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Huawei Advanced Research Education&lt;/a&gt; (briefly &lt;strong&gt;SHARE&lt;/strong&gt;) at &lt;a href=&#34;https://www.msu.ru/en/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lomonosov Moscow State University&lt;/a&gt;, the biggest Russian University.&lt;/p&gt;
+&lt;p&gt;Faculties included: Mechanics and Mathematics, Computational Mathematics and Cybernetics, Physics, Space Research.&lt;/p&gt;
+&lt;p&gt;Responsibilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organizing the whole schedule of lectures (negotiation with technical experts and professors from both sides: Academia and Industry);&lt;/li&gt;
+&lt;li&gt;Maintaining the &lt;em&gt;Machine Learning and Computer Vision&lt;/em&gt; specialization;&lt;/li&gt;
+&lt;li&gt;Creating and teaching Computer Vision, Machine Learning and Python courses.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackathon Metric Learning for facial descriptors</title>
+      <link>https://petiushko.info/project/2019_hackathon/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2019_hackathon/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://web.archive.org/web/20200629223207/http://school-raai.org/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by MIPT, RAAI, &lt;a href=&#34;https://web.archive.org/web/20210120191858/http://school-raai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer School on Artificial Intelligence&lt;/a&gt; to create a &lt;a href=&#34;https://web.archive.org/web/20200629223348/http://school-raai.org/tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hackathon&lt;/a&gt; and make a corresponding presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

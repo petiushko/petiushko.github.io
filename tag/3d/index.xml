@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D | Dr.Alex</title>
+    <link>https://petiushko.info/tag/3d/</link>
+      <atom:link href="https://petiushko.info/tag/3d/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>3D</title>
+      <link>https://petiushko.info/tag/3d/</link>
+    </image>
+    
+    <item>
+      <title>Target image generation utilizing a functional based on functions of information from other images</title>
+      <link>https://petiushko.info/publication/patent_2016_func/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_func/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Region of Interest Tracking Based on Key Frame Matching</title>
+      <link>https://petiushko.info/publication/patent_2016_3droi/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_3droi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor with evaluation layer implementing software and hardware algorithms of different precision</title>
+      <link>https://petiushko.info/publication/patent_2016_improc/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_improc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatus for merging depth images generated using distinct depth imaging techniques</title>
+      <link>https://petiushko.info/publication/patent_2016_merge/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth Image Generation Utilizing Pseudoframes Each Comprising Multiple Phase Images</title>
+      <link>https://petiushko.info/publication/patent_2015_imagen/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_imagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Face Recognition System with Face Recognition Based on Two-Dimensional Grid Transform</title>
+      <link>https://petiushko.info/publication/patent_2015_frgrid/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_frgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor with Static Hand Pose Recognition Utilizing Contour Triangulation and Flattening</title>
+      <link>https://petiushko.info/publication/patent_2015_triangle/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_triangle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Gesture Recognition System with Static Hand Pose Recognition Based on First and Second Sets of Features</title>
+      <link>https://petiushko.info/publication/patent_2015_feat/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_feat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with static hand pose recognition based on dynamic warping</title>
+      <link>https://petiushko.info/publication/patent_2015_warping/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_warping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with computationally-efficient static hand pose recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_static/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite state machine cursor and dynamic gesture detector recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_gesture/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic hand gesture recognition with selective enabling based on detected hand velocity</title>
+      <link>https://petiushko.info/publication/patent_2015_dynamic/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion compensation method and apparatus for depth images</title>
+      <link>https://petiushko.info/publication/patent_2015_mcomp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_mcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition method and apparatus based on analysis of multiple candidate boundaries</title>
+      <link>https://petiushko.info/publication/patent_2015_palm/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_palm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Point Based Robust Three-Dimensional Rigid Body Registration</title>
+      <link>https://petiushko.info/publication/patent_2014_fp/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_fp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processing method and apparatus for elimination of depth artifacts</title>
+      <link>https://petiushko.info/publication/patent_2014_artifact/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_artifact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head Tracking and Gaze Detection</title>
+      <link>https://petiushko.info/demo/2012_track_gaze/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_track_gaze/</guid>
+      <description>&lt;p&gt;Kinect 3D camera is used to track human gaze detection.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Head Registration</title>
+      <link>https://petiushko.info/demo/2012_fp/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_fp/</guid>
+      <description>&lt;p&gt;Marks on heads - 3D feature points. Black marks - feature points without correspondence. Blue marks (and dotted lines between them) - feature points with established correspondence.&lt;/p&gt;
+&lt;p&gt;Frameskip - 5 frames.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2D Head Pose Estimation</title>
+      <link>https://petiushko.info/demo/2012_ellipse/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_ellipse/</guid>
+      <description>&lt;p&gt;Due to the simple nature of the algorithm, head pose estimation works adequately only in XY plane.&lt;/p&gt;
+&lt;p&gt;Left pic - original film, right pic - human body only extracted from the previous one.&lt;/p&gt;
+&lt;p&gt;Red rectangle - head area, blue ellipse - head approximation, green line - head main direction in XY plane.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

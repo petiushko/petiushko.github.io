@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Dr.Alex</title>
+    <link>https://petiushko.info/publication-type/2/</link>
+      <atom:link href="https://petiushko.info/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://petiushko.info/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Mutual modality learning for video action classification</title>
+      <link>https://petiushko.info/publication/journal_2023_mml/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_mml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many Heads but One Brain: Fusion Brain - a Competition and a Single Multimodal Multitask Architecture</title>
+      <link>https://petiushko.info/publication/journal_2023_fb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence: Problems and Prospects</title>
+      <link>https://petiushko.info/publication/2020_ai/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2020_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of Optimal Non-linear Stretching of Symmetric Matrices for Recognition Tasks</title>
+      <link>https://petiushko.info/publication/2017_cmpmat/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2017_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Optimal Non-linear Stretching of Self-comparison Matrices for 1D Signals</title>
+      <link>https://petiushko.info/publication/2016_cmpmat/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chomsky Hierarchy for Matrices of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2016_chomsky/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Context-free Bigram Languages</title>
+      <link>https://petiushko.info/publication/2015_cfree/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2015_cfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card_eng/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_bigram_eng/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_bigram_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_reg_freq/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_reg_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_bigram/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_bigram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency Languages</title>
+      <link>https://petiushko.info/publication/2012_freq/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields and Their Relationship with Markov Chains</title>
+      <link>https://petiushko.info/publication/2010_mrf_mc/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf_mc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

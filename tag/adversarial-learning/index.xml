@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adversarial Learning | Dr.Alex</title>
+    <link>https://petiushko.info/tag/adversarial-learning/</link>
+      <atom:link href="https://petiushko.info/tag/adversarial-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adversarial Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Adversarial Learning</title>
+      <link>https://petiushko.info/tag/adversarial-learning/</link>
+    </image>
+    
+    <item>
+      <title>Application of Adversarial Machine Learning to Analyze the NN Robustness in the Real World</title>
+      <link>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</guid>
+      <description>&lt;p&gt;A presentation during &lt;a href=&#34;https://www.spice-agency.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spice IT&lt;/a&gt; Computer Vision Online Meetup.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning in Real World</title>
+      <link>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://chebyshev.spbu.ru/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chebyshev Lab&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Machine Learning</title>
+      <link>https://petiushko.info/talk/adversarial-machine-learning/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/adversarial-machine-learning/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://petiushko.info/files/20191012_FestivalNauki_Program.png&#34;&gt;invited&lt;/a&gt; by 2019 &lt;a href=&#34;http://festivalnauki.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Festival&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

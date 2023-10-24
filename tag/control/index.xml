@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control | Dr.Alex</title>
+    <link>https://petiushko.info/tag/control/</link>
+      <atom:link href="https://petiushko.info/tag/control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Control</title>
+      <link>https://petiushko.info/tag/control/</link>
+    </image>
+    
+    <item>
+      <title>Overview of Self-Driving Vehicle Stack of Technologies</title>
+      <link>https://petiushko.info/talk/overview-of-self-driving-vehicle-stack-of-technologies/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/overview-of-self-driving-vehicle-stack-of-technologies/</guid>
+      <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the fundamentals and challenges of Self-driving stack during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena928/4475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer school on Modern Methods for Information Theory, Optimization and Control&lt;/a&gt;. &lt;a href=&#34;https://cloud01.sochisirius.ru/index.php/s/9x6X5nBrzqNEBjP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;. Also, I served there as a Huawei representative leading the research track related to self-driving (prediction task).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

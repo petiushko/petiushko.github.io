@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal Component Analysis | Dr.Alex</title>
+    <link>https://petiushko.info/tag/principal-component-analysis/</link>
+      <atom:link href="https://petiushko.info/tag/principal-component-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Principal Component Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Principal Component Analysis</title>
+      <link>https://petiushko.info/tag/principal-component-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with computationally-efficient static hand pose recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_static/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_static/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

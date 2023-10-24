@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | Dr.Alex</title>
+    <link>https://petiushko.info/tag/education/</link>
+      <atom:link href="https://petiushko.info/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Oct 2023 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Education</title>
+      <link>https://petiushko.info/tag/education/</link>
+    </image>
+    
+    <item>
+      <title>AI in Education – Revolution and Future</title>
+      <link>https://petiushko.info/talk/ai-in-education-revolution-and-future/</link>
+      <pubDate>Sat, 14 Oct 2023 09:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/ai-in-education-revolution-and-future/</guid>
+      <description>&lt;p&gt;I was invited as a &lt;a href=&#34;https://www.joinideas.org/speaker/aleksandr-petiushko/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;panelist&lt;/a&gt; for the Panel Talk-7: &amp;lsquo;AI in Education – Revolution and Future&amp;rsquo; on 2023 IDEAS Global AI Conference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

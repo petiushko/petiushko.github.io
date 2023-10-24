@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPT | Dr.Alex</title>
+    <link>https://petiushko.info/tag/gpt/</link>
+      <atom:link href="https://petiushko.info/tag/gpt/index.xml" rel="self" type="application/rss+xml" />
+    <description>GPT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>GPT</title>
+      <link>https://petiushko.info/tag/gpt/</link>
+    </image>
+    
+    <item>
+      <title>Many Heads but One Brain: Fusion Brain - a Competition and a Single Multimodal Multitask Architecture</title>
+      <link>https://petiushko.info/publication/journal_2023_fb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_fb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markov Random Field | Dr.Alex</title>
+    <link>https://petiushko.info/tag/markov-random-field/</link>
+      <atom:link href="https://petiushko.info/tag/markov-random-field/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markov Random Field</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Markov Random Field</title>
+      <link>https://petiushko.info/tag/markov-random-field/</link>
+    </image>
+    
+    <item>
+      <title>Methods and apparatus for merging depth images generated using distinct depth imaging techniques</title>
+      <link>https://petiushko.info/publication/patent_2016_merge/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superresolution image processing using an invertible sparse matrix</title>
+      <link>https://petiushko.info/publication/patent_2014_sr/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Application of Markov Random Fileds for Noise Removal</title>
+      <link>https://petiushko.info/publication/2011_cmrf/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_cmrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields and Their Relationship with Markov Chains</title>
+      <link>https://petiushko.info/publication/2010_mrf_mc/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf_mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields</title>
+      <link>https://petiushko.info/publication/2010_mrf/</link>
+      <pubDate>Wed, 03 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Dr.Alex</title>
+    <link>https://petiushko.info/publication/</link>
+      <atom:link href="https://petiushko.info/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://petiushko.info/publication/</link>
+    </image>
+    
+    <item>
+      <title>Mutual modality learning for video action classification</title>
+      <link>https://petiushko.info/publication/journal_2023_mml/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_mml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many Heads but One Brain: Fusion Brain - a Competition and a Single Multimodal Multitask Architecture</title>
+      <link>https://petiushko.info/publication/journal_2023_fb/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/journal_2023_fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Uncertainty Quantification for Single Deterministic Neural Network</title>
+      <link>https://petiushko.info/publication/conf_2022_nuq/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_nuq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed Embeddings for Certified Few-Shot Learning</title>
+      <link>https://petiushko.info/publication/conf_2022_smoothed_emb/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_smoothed_emb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certified Robustness via Randomized Smoothing over Multiplicative Parameters of Input Transformations</title>
+      <link>https://petiushko.info/publication/conf_2022_cert_mult/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_cert_mult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadric Hypersurface Intersection for Manifold Learning in Feature Space</title>
+      <link>https://petiushko.info/publication/conf_2022_quadr/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_quadr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-Cert: A Probabilistic Approach to Certify General Robustness of Neural Networks</title>
+      <link>https://petiushko.info/publication/conf_2022_cc_cert/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_cc_cert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry-Inspired Top-K Adversarial Perturbations</title>
+      <link>https://petiushko.info/publication/conf_2022_topk/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2022_topk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric Uncertainty Quantification for Single Deterministic Neural Network</title>
+      <link>https://petiushko.info/publication/conf_2021_nuq/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_nuq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold Hypothesis in Data Analysis: Double Geometrically-Probabilistic Approach to Manifold Dimension Estimation</title>
+      <link>https://petiushko.info/publication/arxiv_2021_manifold/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2021_manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darker than Black-Box: Face Reconstruction from Similarity Queries</title>
+      <link>https://petiushko.info/publication/arxiv_2021_darker/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2021_darker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MDMMT: Multidomain Multimodal Transformer for Video Retrieval</title>
+      <link>https://petiushko.info/publication/conf_2021_mdmmt/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_mdmmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdvHat: Real-World Adversarial Attack on ArcFace Face ID System</title>
+      <link>https://petiushko.info/publication/conf_2021_advhat/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2021_advhat/</guid>
+      <description>&lt;p&gt;Mentioned in &lt;a href=&#34;https://youtu.be/sSVRgSUq2rA?t=1585&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robustness Threats of Differential Privacy</title>
+      <link>https://petiushko.info/publication/conf_2020_diffpriv/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2020_diffpriv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence: Problems and Prospects</title>
+      <link>https://petiushko.info/publication/2020_ai/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2020_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black-Box Face Recovery from Identity Features</title>
+      <link>https://petiushko.info/publication/conf_2020_bbrecovery/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2020_bbrecovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Adversarial Patches: Real-World Attack on ArcFace-100 Face Recognition System</title>
+      <link>https://petiushko.info/publication/conf_2019_advpatch/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_advpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-world Attack on MTCNN Face Detection System</title>
+      <link>https://petiushko.info/publication/conf_2019_mtcnn/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2019_mtcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparatus and method for data compression</title>
+      <link>https://petiushko.info/publication/patent_2018_compression/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2018_compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of Optimal Non-linear Stretching of Symmetric Matrices for Recognition Tasks</title>
+      <link>https://petiushko.info/publication/2017_cmpmat/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2017_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Optimal Non-linear Stretching of Self-comparison Matrices for 1D Signals</title>
+      <link>https://petiushko.info/publication/2016_cmpmat/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target image generation utilizing a functional based on functions of information from other images</title>
+      <link>https://petiushko.info/publication/patent_2016_func/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_func/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chomsky Hierarchy for Matrices of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2016_chomsky/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental preamble detection</title>
+      <link>https://petiushko.info/publication/patent_2016_incrpreamble/</link>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_incrpreamble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Region of Interest Tracking Based on Key Frame Matching</title>
+      <link>https://petiushko.info/publication/patent_2016_3droi/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_3droi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor with evaluation layer implementing software and hardware algorithms of different precision</title>
+      <link>https://petiushko.info/publication/patent_2016_improc/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_improc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test signal generator for low-density parity-check decoder</title>
+      <link>https://petiushko.info/publication/patent_2016_testgen/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_testgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatus for merging depth images generated using distinct depth imaging techniques</title>
+      <link>https://petiushko.info/publication/patent_2016_merge/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preamble detection using vector processors</title>
+      <link>https://petiushko.info/publication/patent_2015_preamble/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_preamble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth Image Generation Utilizing Pseudoframes Each Comprising Multiple Phase Images</title>
+      <link>https://petiushko.info/publication/patent_2015_imagen/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_imagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Face Recognition System with Face Recognition Based on Two-Dimensional Grid Transform</title>
+      <link>https://petiushko.info/publication/patent_2015_frgrid/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_frgrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor with Static Hand Pose Recognition Utilizing Contour Triangulation and Flattening</title>
+      <link>https://petiushko.info/publication/patent_2015_triangle/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_triangle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Gesture Recognition System with Static Hand Pose Recognition Based on First and Second Sets of Features</title>
+      <link>https://petiushko.info/publication/patent_2015_feat/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_feat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trapping-set database for a low-density parity-check decoder</title>
+      <link>https://petiushko.info/publication/patent_2015_trap/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with static hand pose recognition based on dynamic warping</title>
+      <link>https://petiushko.info/publication/patent_2015_warping/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_warping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Context-free Bigram Languages</title>
+      <link>https://petiushko.info/publication/2015_cfree/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2015_cfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for selecting a LDPC candidate code</title>
+      <link>https://petiushko.info/publication/patent_2015_ldpcsel/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_ldpcsel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with computationally-efficient static hand pose recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_static/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite state machine cursor and dynamic gesture detector recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_gesture/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic hand gesture recognition with selective enabling based on detected hand velocity</title>
+      <link>https://petiushko.info/publication/patent_2015_dynamic/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion compensation method and apparatus for depth images</title>
+      <link>https://petiushko.info/publication/patent_2015_mcomp/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_mcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture recognition method and apparatus based on analysis of multiple candidate boundaries</title>
+      <link>https://petiushko.info/publication/patent_2015_palm/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_palm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card_eng/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-domain acoustic echo control</title>
+      <link>https://petiushko.info/publication/patent_2014_aec/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_aec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast echo gain change detection</title>
+      <link>https://petiushko.info/publication/patent_2014_egcd/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_egcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Point Based Robust Three-Dimensional Rigid Body Registration</title>
+      <link>https://petiushko.info/publication/patent_2014_fp/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_fp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chunk-based double-dwell preamble detection</title>
+      <link>https://petiushko.info/publication/patent_2014_chunk/</link>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_chunk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic vector based network echo cancellation</title>
+      <link>https://petiushko.info/publication/patent_2014_stochnec/</link>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_stochnec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-mode prediction for a video transcoder</title>
+      <link>https://petiushko.info/publication/patent_2014_intra/</link>
+      <pubDate>Tue, 15 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_intra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superresolution image processing using an invertible sparse matrix</title>
+      <link>https://petiushko.info/publication/patent_2014_sr/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Ring Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_ring/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_ring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processing method and apparatus for elimination of depth artifacts</title>
+      <link>https://petiushko.info/publication/patent_2014_artifact/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_artifact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_bigram_eng/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_bigram_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerator for a read-channel design and simulation tool</title>
+      <link>https://petiushko.info/publication/patent_2014_rc/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_rc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion estimation for a video transcoder</title>
+      <link>https://petiushko.info/publication/patent_2014_motion/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2014_motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_reg_freq/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_reg_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_bigram/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_bigram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft attenuation of high-power signals</title>
+      <link>https://petiushko.info/publication/patent_2012_hlc/</link>
+      <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2012_hlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music detection using spectral peak analysis</title>
+      <link>https://petiushko.info/publication/patent_2012_music/</link>
+      <pubDate>Thu, 21 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2012_music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Asymptotic Estimations for Bigram Languages</title>
+      <link>https://petiushko.info/publication/2012_asympt/</link>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_asympt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency Languages</title>
+      <link>https://petiushko.info/publication/2012_freq/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Frequency Bigram Language</title>
+      <link>https://petiushko.info/publication/2012_card/</link>
+      <pubDate>Wed, 11 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2011_freq/</link>
+      <pubDate>Wed, 07 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Application of Markov Random Fileds for Noise Removal</title>
+      <link>https://petiushko.info/publication/2011_cmrf/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_cmrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields and Their Relationship with Markov Chains</title>
+      <link>https://petiushko.info/publication/2010_mrf_mc/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf_mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields</title>
+      <link>https://petiushko.info/publication/2010_mrf/</link>
+      <pubDate>Wed, 03 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1D Noisy Recognition Analysis (Shortened Version)</title>
+      <link>https://petiushko.info/publication/2006_1d_rec_brief/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2006_1d_rec_brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1D Noisy Recognition Analysis</title>
+      <link>https://petiushko.info/publication/2005_1d_rec/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2005_1d_rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

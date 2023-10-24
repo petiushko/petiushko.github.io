@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Pose | Dr.Alex</title>
+    <link>https://petiushko.info/tag/static-pose/</link>
+      <atom:link href="https://petiushko.info/tag/static-pose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Static Pose</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Static Pose</title>
+      <link>https://petiushko.info/tag/static-pose/</link>
+    </image>
+    
+    <item>
+      <title>Image Processor with Static Hand Pose Recognition Utilizing Contour Triangulation and Flattening</title>
+      <link>https://petiushko.info/publication/patent_2015_triangle/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_triangle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processor Comprising Gesture Recognition System with Static Hand Pose Recognition Based on First and Second Sets of Features</title>
+      <link>https://petiushko.info/publication/patent_2015_feat/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_feat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with static hand pose recognition based on dynamic warping</title>
+      <link>https://petiushko.info/publication/patent_2015_warping/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_warping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with computationally-efficient static hand pose recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_static/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite state machine cursor and dynamic gesture detector recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_gesture/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_gesture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

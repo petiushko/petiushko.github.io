@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracking | Dr.Alex</title>
+    <link>https://petiushko.info/tag/tracking/</link>
+      <atom:link href="https://petiushko.info/tag/tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tracking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Tracking</title>
+      <link>https://petiushko.info/tag/tracking/</link>
+    </image>
+    
+    <item>
+      <title>Finite state machine cursor and dynamic gesture detector recognition</title>
+      <link>https://petiushko.info/publication/patent_2015_gesture/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head Tracking and Gaze Detection</title>
+      <link>https://petiushko.info/demo/2012_track_gaze/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_track_gaze/</guid>
+      <description>&lt;p&gt;Kinect 3D camera is used to track human gaze detection.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

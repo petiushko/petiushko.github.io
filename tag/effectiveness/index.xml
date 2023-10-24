@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Effectiveness | Dr.Alex</title>
+    <link>https://petiushko.info/tag/effectiveness/</link>
+      <atom:link href="https://petiushko.info/tag/effectiveness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Effectiveness</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Effectiveness</title>
+      <link>https://petiushko.info/tag/effectiveness/</link>
+    </image>
+    
+    <item>
+      <title>Trends in AI: Multi-modality, Multi-tasking, Effectiveness</title>
+      <link>https://petiushko.info/talk/trends-in-ai-multi-modality-multi-tasking-effectiveness/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/trends-in-ai-multi-modality-multi-tasking-effectiveness/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6892743831289487360/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://en.upgreat.one/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UpGreat&lt;/a&gt; Technology Contests to make a presentation about the current landscape of research in Generative AI during the closing of the &lt;a href=&#34;https://en.ai.upgreat.one/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read//Able&lt;/a&gt; Contest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective Multi-modal Multi-task models</title>
+      <link>https://petiushko.info/talk/effective-multi-modal-multi-task-models/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/effective-multi-modal-multi-task-models/</guid>
+      <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the current landscape of research in Generative AI during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena1107/5337&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning and Artificial Intelligence Technologies Workshop&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

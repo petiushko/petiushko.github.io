@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | Dr.Alex</title>
+    <link>https://petiushko.info/tag/overview/</link>
+      <atom:link href="https://petiushko.info/tag/overview/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Overview</title>
+      <link>https://petiushko.info/tag/overview/</link>
+    </image>
+    
+    <item>
+      <title>Self-driving: Introduction, Challenges and Open Questions</title>
+      <link>https://petiushko.info/talk/self-driving-introduction-challenges-and-open-questions/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/self-driving-introduction-challenges-and-open-questions/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/739&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by &lt;a href=&#34;https://dls.samcs.ru/en/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to make a presentation about the current landscape of research in Autonomous Driving Area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomy: Introduction of ML for High School</title>
+      <link>https://petiushko.info/talk/autonomy-introduction-of-ml-for-high-school/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/autonomy-introduction-of-ml-for-high-school/</guid>
+      <description>&lt;p&gt;Presentation done for students of &lt;a href=&#34;https://mvhs.mvla.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mountain View High School&lt;/a&gt; with the overview of the Autonomy Stack, related problems, and possible new jobs that students can face in the future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certified Robustness: Fundamentals and Challenges</title>
+      <link>https://petiushko.info/talk/certified-robustness-fundamentals-and-challenges/</link>
+      <pubDate>Tue, 24 Jan 2023 18:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/certified-robustness-fundamentals-and-challenges/</guid>
+      <description>&lt;p&gt;Presentation made for webinars&amp;rsquo; stream of &lt;a href=&#34;https://ntrlab.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTR LABS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interviews in AI</title>
+      <link>https://petiushko.info/talk/interviews-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:30:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry in AI</title>
+      <link>https://petiushko.info/talk/industry-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/industry-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in AI: Multi-modality, Multi-tasking, Effectiveness</title>
+      <link>https://petiushko.info/talk/trends-in-ai-multi-modality-multi-tasking-effectiveness/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/trends-in-ai-multi-modality-multi-tasking-effectiveness/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6892743831289487360/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://en.upgreat.one/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UpGreat&lt;/a&gt; Technology Contests to make a presentation about the current landscape of research in Generative AI during the closing of the &lt;a href=&#34;https://en.ai.upgreat.one/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read//Able&lt;/a&gt; Contest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective Multi-modal Multi-task models</title>
+      <link>https://petiushko.info/talk/effective-multi-modal-multi-task-models/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/effective-multi-modal-multi-task-models/</guid>
+      <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the current landscape of research in Generative AI during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena1107/5337&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning and Artificial Intelligence Technologies Workshop&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Tangent Kernel: Introduction</title>
+      <link>https://petiushko.info/talk/neural-tangent-kernel-introduction/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-tangent-kernel-introduction/</guid>
+      <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the basics and important problems of NTK AI during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena928/4475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer school on Modern Methods for Information Theory, Optimization and Control&lt;/a&gt;. &lt;a href=&#34;https://cloud01.sochisirius.ru/index.php/s/9x6X5nBrzqNEBjP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;. Also, I served there as a Huawei representative leading the research track related to self-driving (prediction task).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of Self-Driving Vehicle Stack of Technologies</title>
+      <link>https://petiushko.info/talk/overview-of-self-driving-vehicle-stack-of-technologies/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/overview-of-self-driving-vehicle-stack-of-technologies/</guid>
+      <description>&lt;p&gt;I was invited by the &lt;a href=&#34;https://sochisirius.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sirius Educational Center&lt;/a&gt; to make a presentation about the fundamentals and challenges of Self-driving stack during the &lt;a href=&#34;https://sochisirius.ru/obuchenie/graduates/smena928/4475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Summer school on Modern Methods for Information Theory, Optimization and Control&lt;/a&gt;. &lt;a href=&#34;https://cloud01.sochisirius.ru/index.php/s/9x6X5nBrzqNEBjP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;. Also, I served there as a Huawei representative leading the research track related to self-driving (prediction task).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certified Robustness in High Dimensions</title>
+      <link>https://petiushko.info/talk/certified-robustness-in-high-dimensions/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/certified-robustness-in-high-dimensions/</guid>
+      <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://scholar.google.ca/citations?user=BqDhGJQAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxim Panov&lt;/a&gt; to make a presentation about the certified robustness and related concepts during the scientific seminars.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNN Robustness research: Application to face detectors and face ID systems</title>
+      <link>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</guid>
+      <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://opentalks.ai/en/details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenTalks.AI&lt;/a&gt; about the advances in adversarial robustness for face detection and identification: &lt;a href=&#34;https://speakerdeck.com/opentalks2/opentalks-dot-ai-alieksandr-pietiushko-issliedovaniie-ustoichivosti-sviertochnykh-nieirosietiei-na-primierie-sistiem-dietiektsii-i-raspoznavaniia-lits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SpeakerDeck&lt;/a&gt; presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNN Robustness research. Application to face detectors and face ID systems</title>
+      <link>https://petiushko.info/talk/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</guid>
+      <description>&lt;p&gt;I made the presentation about the adversarial robustness theory and our publications in this area during the Huwei Workshop.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Certified Robustness for modern NN</title>
+      <link>https://petiushko.info/talk/certified-robustness-for-modern-nn/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/certified-robustness-for-modern-nn/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://petiushko.info/files/20200524_Stat_Olympiad_program.pdf&#34;&gt;invited&lt;/a&gt; by HSE and SkolTech Universities to make a presentation during the &lt;a href=&#34;https://hse.skoltech.ru/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical Learning Olympiad&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision (updated)</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision-updated/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision-updated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning methods for Computer Vision</title>
+      <link>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/deep-learning-methods-for-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success and introduction to FaceID</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success-and-introduction-to-faceid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Nets recent success</title>
+      <link>https://petiushko.info/talk/neural-nets-recent-success/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/neural-nets-recent-success/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

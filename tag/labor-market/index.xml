@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labor Market | Dr.Alex</title>
+    <link>https://petiushko.info/tag/labor-market/</link>
+      <atom:link href="https://petiushko.info/tag/labor-market/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labor Market</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Labor Market</title>
+      <link>https://petiushko.info/tag/labor-market/</link>
+    </image>
+    
+    <item>
+      <title>Interviews in AI</title>
+      <link>https://petiushko.info/talk/interviews-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:30:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry in AI</title>
+      <link>https://petiushko.info/talk/industry-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/industry-in-ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

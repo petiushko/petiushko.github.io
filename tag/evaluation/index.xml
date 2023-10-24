@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evaluation | Dr.Alex</title>
+    <link>https://petiushko.info/tag/evaluation/</link>
+      <atom:link href="https://petiushko.info/tag/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evaluation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Evaluation</title>
+      <link>https://petiushko.info/tag/evaluation/</link>
+    </image>
+    
+    <item>
+      <title>Autonomy: Open Questions</title>
+      <link>https://petiushko.info/talk/autonomy-open-questions/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/autonomy-open-questions/</guid>
+      <description>&lt;p&gt;Presentation done during 2023 Spring Retreat at &lt;a href=&#34;https://www.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Berkeley&lt;/a&gt; organizied by &lt;a href=&#34;https://deepdrive.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley DeepDrive&lt;/a&gt; and &lt;a href=&#34;https://bair.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley Artificial Intelligence Research&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autonomy Challenges</title>
+      <link>https://petiushko.info/talk/autonomy-challenges/</link>
+      <pubDate>Tue, 11 Oct 2022 18:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/autonomy-challenges/</guid>
+      <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://www.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, Berkeley&lt;/a&gt; lecture organized by &lt;a href=&#34;https://deepdrive.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berkeley DeepDrive&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image processor with evaluation layer implementing software and hardware algorithms of different precision</title>
+      <link>https://petiushko.info/publication/patent_2016_improc/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2016_improc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

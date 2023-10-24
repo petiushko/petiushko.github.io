@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretability | Dr.Alex</title>
+    <link>https://petiushko.info/tag/interpretability/</link>
+      <atom:link href="https://petiushko.info/tag/interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interpretability</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Interpretability</title>
+      <link>https://petiushko.info/tag/interpretability/</link>
+    </image>
+    
+    <item>
+      <title>Anomaly detection for AI</title>
+      <link>https://petiushko.info/talk/anomaly-detection-for-ai/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/anomaly-detection-for-ai/</guid>
+      <description>&lt;p&gt;I made the presentation about the holistic approach for the robustness direction and its application to anomaly detection during the 2-days Huwei Summit and Workshop (&lt;a href=&#34;http://huaweiindustrialvideointelligencesummit.com/Data/List/Agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

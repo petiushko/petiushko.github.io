@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Support Vector Machine | Dr.Alex</title>
+    <link>https://petiushko.info/tag/support-vector-machine/</link>
+      <atom:link href="https://petiushko.info/tag/support-vector-machine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Support Vector Machine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Support Vector Machine</title>
+      <link>https://petiushko.info/tag/support-vector-machine/</link>
+    </image>
+    
+    <item>
+      <title>Apparatus and method for data compression</title>
+      <link>https://petiushko.info/publication/patent_2018_compression/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2018_compression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaze Detection | Dr.Alex</title>
+    <link>https://petiushko.info/tag/gaze-detection/</link>
+      <atom:link href="https://petiushko.info/tag/gaze-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gaze Detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Gaze Detection</title>
+      <link>https://petiushko.info/tag/gaze-detection/</link>
+    </image>
+    
+    <item>
+      <title>Head Tracking and Gaze Detection</title>
+      <link>https://petiushko.info/demo/2012_track_gaze/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/demo/2012_track_gaze/</guid>
+      <description>&lt;p&gt;Kinect 3D camera is used to track human gaze detection.&lt;/p&gt;
+&lt;p&gt;Done while working at LSI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

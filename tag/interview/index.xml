@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview | Dr.Alex</title>
+    <link>https://petiushko.info/tag/interview/</link>
+      <atom:link href="https://petiushko.info/tag/interview/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interview</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Feb 2022 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Interview</title>
+      <link>https://petiushko.info/tag/interview/</link>
+    </image>
+    
+    <item>
+      <title>Interviews in AI</title>
+      <link>https://petiushko.info/talk/interviews-in-ai/</link>
+      <pubDate>Fri, 11 Feb 2022 09:30:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interviews in Deep Learning research with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/interviews-in-deep-learning-research-with-aleksandr-petiushko/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/interviews-in-deep-learning-research-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the different stuff around ML/DL interviews, how to prepare, what to expect, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic Warping | Dr.Alex</title>
+    <link>https://petiushko.info/tag/dynamic-warping/</link>
+      <atom:link href="https://petiushko.info/tag/dynamic-warping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic Warping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Dynamic Warping</title>
+      <link>https://petiushko.info/tag/dynamic-warping/</link>
+    </image>
+    
+    <item>
+      <title>Image processor comprising gesture recognition system with static hand pose recognition based on dynamic warping</title>
+      <link>https://petiushko.info/publication/patent_2015_warping/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_warping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

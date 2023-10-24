@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Efficiency | Dr.Alex</title>
+    <link>https://petiushko.info/tag/efficiency/</link>
+      <atom:link href="https://petiushko.info/tag/efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <description>Efficiency</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Efficiency</title>
+      <link>https://petiushko.info/tag/efficiency/</link>
+    </image>
+    
+    <item>
+      <title>Lightening of models by design</title>
+      <link>https://petiushko.info/talk/lightening-of-models-by-design/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/lightening-of-models-by-design/</guid>
+      <description>&lt;p&gt;Together with E.Tutubalina I was invited by the ODS (&lt;a href=&#34;https://petiushko.info/files/20211030_ODS_program.pdf&#34;&gt;program&lt;/a&gt;) to make a presentation about the efficient NLP models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

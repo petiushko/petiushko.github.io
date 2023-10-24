@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formal Language | Dr.Alex</title>
+    <link>https://petiushko.info/tag/formal-language/</link>
+      <atom:link href="https://petiushko.info/tag/formal-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Formal Language</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Formal Language</title>
+      <link>https://petiushko.info/tag/formal-language/</link>
+    </image>
+    
+    <item>
+      <title>Chomsky Hierarchy for Matrices of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2016_chomsky/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Context-free Bigram Languages</title>
+      <link>https://petiushko.info/publication/2015_cfree/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2015_cfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card_eng/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Ring Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_ring/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_ring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_bigram_eng/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_bigram_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_reg_freq/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_reg_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_bigram/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_bigram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Asymptotic Estimations for Bigram Languages</title>
+      <link>https://petiushko.info/publication/2012_asympt/</link>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_asympt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency Languages</title>
+      <link>https://petiushko.info/publication/2012_freq/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Frequency Bigram Language</title>
+      <link>https://petiushko.info/publication/2012_card/</link>
+      <pubDate>Wed, 11 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2011_freq/</link>
+      <pubDate>Wed, 07 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_freq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

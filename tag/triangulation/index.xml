@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Triangulation | Dr.Alex</title>
+    <link>https://petiushko.info/tag/triangulation/</link>
+      <atom:link href="https://petiushko.info/tag/triangulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Triangulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Triangulation</title>
+      <link>https://petiushko.info/tag/triangulation/</link>
+    </image>
+    
+    <item>
+      <title>Image Processor with Static Hand Pose Recognition Utilizing Contour Triangulation and Flattening</title>
+      <link>https://petiushko.info/publication/patent_2015_triangle/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/patent_2015_triangle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

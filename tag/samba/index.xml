@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samba | Dr.Alex</title>
+    <link>https://petiushko.info/tag/samba/</link>
+      <atom:link href="https://petiushko.info/tag/samba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samba</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Samba</title>
+      <link>https://petiushko.info/tag/samba/</link>
+    </image>
+    
+    <item>
+      <title>Samba Search</title>
+      <link>https://petiushko.info/project/2007_smb/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/project/2007_smb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/fatheral/perl_projects/tree/master/smbsearch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt; for smbsearch (both back-end indexer and web-interface for search itself).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

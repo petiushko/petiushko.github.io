@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics | Dr.Alex</title>
+    <link>https://petiushko.info/tag/mathematics/</link>
+      <atom:link href="https://petiushko.info/tag/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathematics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>Mathematics</title>
+      <link>https://petiushko.info/tag/mathematics/</link>
+    </image>
+    
+    <item>
+      <title>Mathematics and Theory in Deep Learning with Aleksandr Petiushko</title>
+      <link>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/mathematics-and-theory-in-deep-learning-with-aleksandr-petiushko/</guid>
+      <description>&lt;p&gt;I was &lt;a href=&#34;https://t.me/dl_stories/619&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; by the &lt;a href=&#34;https://dls.samcs.ru/dls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning School&lt;/a&gt; to talk about the importance of mathematics and theory knowledge when working inside ML/DL domain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence: Problems and Prospects</title>
+      <link>https://petiushko.info/publication/2020_ai/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2020_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of Optimal Non-linear Stretching of Symmetric Matrices for Recognition Tasks</title>
+      <link>https://petiushko.info/publication/2017_cmpmat/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2017_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Optimal Non-linear Stretching of Self-comparison Matrices for 1D Signals</title>
+      <link>https://petiushko.info/publication/2016_cmpmat/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_cmpmat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chomsky Hierarchy for Matrices of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2016_chomsky/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2016_chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Context-free Bigram Languages</title>
+      <link>https://petiushko.info/publication/2015_cfree/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2015_cfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card_eng/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Ring Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_ring/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_ring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_bigram_eng/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_bigram_eng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Bigram Languages</title>
+      <link>https://petiushko.info/publication/2014_card/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2014_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_reg_freq/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_reg_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Bigram Languages</title>
+      <link>https://petiushko.info/publication/2013_bigram/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2013_bigram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Asymptotic Estimations for Bigram Languages</title>
+      <link>https://petiushko.info/publication/2012_asympt/</link>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_asympt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency Languages</title>
+      <link>https://petiushko.info/publication/2012_freq/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Cardinality of Frequency Bigram Language</title>
+      <link>https://petiushko.info/publication/2012_card/</link>
+      <pubDate>Wed, 11 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2012_card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Frequency Bigram Languages</title>
+      <link>https://petiushko.info/publication/2011_freq/</link>
+      <pubDate>Wed, 07 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_freq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Application of Markov Random Fileds for Noise Removal</title>
+      <link>https://petiushko.info/publication/2011_cmrf/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2011_cmrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields and Their Relationship with Markov Chains</title>
+      <link>https://petiushko.info/publication/2010_mrf_mc/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf_mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Markov Random Fields</title>
+      <link>https://petiushko.info/publication/2010_mrf/</link>
+      <pubDate>Wed, 03 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2010_mrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1D Noisy Recognition Analysis (Shortened Version)</title>
+      <link>https://petiushko.info/publication/2006_1d_rec_brief/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2006_1d_rec_brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1D Noisy Recognition Analysis</title>
+      <link>https://petiushko.info/publication/2005_1d_rec/</link>
+      <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/2005_1d_rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
