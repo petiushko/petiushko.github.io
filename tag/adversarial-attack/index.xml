@@ -30,18 +30,18 @@
     
     <item>
       <title>CNN Adversarial Robustness in the Real World</title>
-      <link>https://petiushko.info/talk/cnn-adversarial-robustness-in-the-real-world/</link>
+      <link>https://petiushko.info/talk/2021/04/15/cnn-adversarial-robustness-in-the-real-world/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/cnn-adversarial-robustness-in-the-real-world/</guid>
+      <guid>https://petiushko.info/talk/2021/04/15/cnn-adversarial-robustness-in-the-real-world/</guid>
       <description>&lt;p&gt;I was &lt;a href=&#34;http://www.int.unn.ru/news/15-aprelya-otkrytaya-lektsiya-nnrc-huawei-dlya-studentov-i-prepodavatelej-na-baze-nngu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited&lt;/a&gt; to make a presentation at &lt;a href=&#34;http://eng.unn.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lobachevsky University&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CNN Robustness research: Application to face detectors and face ID systems</title>
-      <link>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</link>
+      <link>https://petiushko.info/talk/2021/02/04/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</guid>
+      <guid>https://petiushko.info/talk/2021/02/04/cnn-robustness-research-application-to-face-detectors-and-face-id-systems/</guid>
       <description>&lt;p&gt;I was invited to make a presentation at &lt;a href=&#34;https://opentalks.ai/en/details&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenTalks.AI&lt;/a&gt; about the advances in adversarial robustness for face detection and identification: &lt;a href=&#34;https://speakerdeck.com/opentalks2/opentalks-dot-ai-alieksandr-pietiushko-issliedovaniie-ustoichivosti-sviertochnykh-nieirosietiei-na-primierie-sistiem-dietiektsii-i-raspoznavaniia-lits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SpeakerDeck&lt;/a&gt; presentation.&lt;/p&gt;
 </description>
     </item>
@@ -65,27 +65,27 @@
     
     <item>
       <title>CNN Robustness research. Application to face detectors and face ID systems</title>
-      <link>https://petiushko.info/talk/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</link>
+      <link>https://petiushko.info/talk/2020/12/01/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</guid>
+      <guid>https://petiushko.info/talk/2020/12/01/cnn-robustness-research.-application-to-face-detectors-and-face-id-systems/</guid>
       <description>&lt;p&gt;I made the presentation about the adversarial robustness theory and our publications in this area during the Huwei Workshop.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CNN Adversarial Robustness. The Theory (digital adversaries)</title>
-      <link>https://petiushko.info/post/2020_11_medium/</link>
+      <link>https://petiushko.info/post/2020/11/08/cnn-adversarial-robustness.-the-theory-digital-adversaries/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/post/2020_11_medium/</guid>
+      <guid>https://petiushko.info/post/2020/11/08/cnn-adversarial-robustness.-the-theory-digital-adversaries/</guid>
       <description>&lt;p&gt;A &lt;a href=&#34;https://medium.com/swlh/cnn-adversarial-robustness-3d1cb8013ecf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; about adversarial robustness in the digital world and the theory behind it on &lt;a href=&#34;https://medium.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial and Certified Robustness</title>
-      <link>https://petiushko.info/talk/adversarial-and-certified-robustness/</link>
+      <link>https://petiushko.info/talk/2020/09/20/adversarial-and-certified-robustness/</link>
       <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/adversarial-and-certified-robustness/</guid>
+      <guid>https://petiushko.info/talk/2020/09/20/adversarial-and-certified-robustness/</guid>
       <description>&lt;p&gt;I made the presentation during &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1zPewpluO4QYR0xv3hqW2BsDtsoeTpLzjKxCWSuB4wi4/edit#gid=660326278&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huawei Industrial Track&lt;/a&gt; on the DataFest-2020 by &lt;a href=&#34;https://ods.ai/events/datafest2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Data Science&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -100,27 +100,27 @@
     
     <item>
       <title>CNN Robustness Research. The Theory</title>
-      <link>https://petiushko.info/post/2020_08_habr/</link>
+      <link>https://petiushko.info/post/2020/08/12/cnn-robustness-research.-the-theory/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/post/2020_08_habr/</guid>
+      <guid>https://petiushko.info/post/2020/08/12/cnn-robustness-research.-the-theory/</guid>
       <description>&lt;p&gt;A &lt;a href=&#34;https://habr.com/ru/company/huawei/blog/509816/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; about adversarial robustness (in Russian) on the most known Russion technical resource &lt;a href=&#34;https://habr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;habr.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Application of Adversarial Machine Learning to Analyze the NN Robustness in the Real World</title>
-      <link>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</link>
+      <link>https://petiushko.info/talk/2020/06/26/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</guid>
+      <guid>https://petiushko.info/talk/2020/06/26/application-of-adversarial-machine-learning-to-analyze-the-nn-robustness-in-the-real-world/</guid>
       <description>&lt;p&gt;A presentation during &lt;a href=&#34;https://www.spice-agency.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spice IT&lt;/a&gt; Computer Vision Online Meetup.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Machine Learning in Real World</title>
-      <link>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</link>
+      <link>https://petiushko.info/talk/2020/05/29/adversarial-machine-learning-in-real-world/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/adversarial-machine-learning-in-real-world/</guid>
+      <guid>https://petiushko.info/talk/2020/05/29/adversarial-machine-learning-in-real-world/</guid>
       <description>&lt;p&gt;I was invited by &lt;a href=&#34;https://chebyshev.spbu.ru/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chebyshev Lab&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
 </description>
     </item>
@@ -143,9 +143,9 @@
     
     <item>
       <title>Adversarial Machine Learning</title>
-      <link>https://petiushko.info/talk/adversarial-machine-learning/</link>
+      <link>https://petiushko.info/talk/2019/10/12/adversarial-machine-learning/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://petiushko.info/talk/adversarial-machine-learning/</guid>
+      <guid>https://petiushko.info/talk/2019/10/12/adversarial-machine-learning/</guid>
       <description>&lt;p&gt;I was &lt;a href=&#34;https://petiushko.info/files/20191012_FestivalNauki_Program.png&#34;&gt;invited&lt;/a&gt; by 2019 &lt;a href=&#34;http://festivalnauki.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Festival&lt;/a&gt; to make a presentation about the analysis of adversarial ML for real-world applications.&lt;/p&gt;
 </description>
     </item>
