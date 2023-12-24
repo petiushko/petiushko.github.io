@@ -5,12 +5,20 @@
     <link>https://petiushko.info/tag/deep-learning/</link>
       <atom:link href="https://petiushko.info/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://petiushko.info/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Multi-Constraint Safe RL with Objective Suppression for Safety-Critical Applications</title>
+      <link>https://petiushko.info/publication/conf_2023_supp/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2023_supp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mutual modality learning for video action classification</title>
