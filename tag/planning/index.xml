@@ -5,12 +5,29 @@
     <link>https://petiushko.info/tag/planning/</link>
       <atom:link href="https://petiushko.info/tag/planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Planning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 14:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 11:30:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Planning</title>
       <link>https://petiushko.info/tag/planning/</link>
     </image>
+    
+    <item>
+      <title>Combining IMitation and Reinforcement Learning for Safe Autonomous Driving</title>
+      <link>https://petiushko.info/talk/2024/06/18/2024-06-18/</link>
+      <pubDate>Tue, 18 Jun 2024 11:30:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/2024/06/18/2024-06-18/</guid>
+      <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://agents4ad.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data-Driven Autonomous Driving Simulation&lt;/a&gt; (DDADS) at the &lt;a href=&#34;https://cvpr.thecvf.com/Conferences/2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt; (CVPR) 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CIMRL: Combining IMitation and Reinforcement Learning for Safe Autonomous Driving</title>
+      <link>https://petiushko.info/publication/arxiv_2024_cimrl/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2024_cimrl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scaling Laws for Autonomous Driving Models</title>
@@ -43,7 +60,7 @@
       <link>https://petiushko.info/talk/2023/06/19/2023-06-19/</link>
       <pubDate>Mon, 19 Jun 2023 14:00:00 +0000</pubDate>
       <guid>https://petiushko.info/talk/2023/06/19/2023-06-19/</guid>
-      <description>&lt;p&gt;Presentation on &lt;a href=&#34;https://trust-ai.github.io/SSAD2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure and Safe Autonomous Driving&lt;/a&gt; (SSAD) Workshop on the &lt;a href=&#34;https://cvpr2023.thecvf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt; (CVPR) 2023.&lt;/p&gt;
+      <description>&lt;p&gt;Presentation at &lt;a href=&#34;https://trust-ai.github.io/SSAD2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure and Safe Autonomous Driving&lt;/a&gt; (SSAD) Workshop at the &lt;a href=&#34;https://cvpr2023.thecvf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt; (CVPR) 2023.&lt;/p&gt;
 </description>
     </item>
     
@@ -52,7 +69,7 @@
       <link>https://petiushko.info/talk/2023/06/06/2023-06-06/</link>
       <pubDate>Tue, 06 Jun 2023 11:00:00 +0000</pubDate>
       <guid>https://petiushko.info/talk/2023/06/06/2023-06-06/</guid>
-      <description>&lt;p&gt;I was invited as a &lt;a href=&#34;https://cai.ieee.org/2023/aleksandr-petiushko/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;panelist&lt;/a&gt; for the &amp;lsquo;Artificial Intelligence for Autonomous Driving&amp;rsquo; panel discussion on &lt;a href=&#34;https://cai.ieee.org/2023/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Conference on Artificial Intelligence 2023&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I was invited as a &lt;a href=&#34;https://cai.ieee.org/2023/aleksandr-petiushko/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;panelist&lt;/a&gt; for the &amp;lsquo;Artificial Intelligence for Autonomous Driving&amp;rsquo; panel discussion at &lt;a href=&#34;https://cai.ieee.org/2023/program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Conference on Artificial Intelligence 2023&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

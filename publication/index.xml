@@ -5,12 +5,20 @@
     <link>https://petiushko.info/publication/</link>
       <atom:link href="https://petiushko.info/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://petiushko.info/publication/</link>
     </image>
+    
+    <item>
+      <title>CIMRL: Combining IMitation and Reinforcement Learning for Safe Autonomous Driving</title>
+      <link>https://petiushko.info/publication/arxiv_2024_cimrl/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2024_cimrl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Constraint Safe RL with Objective Suppression for Safety-Critical Applications</title>
