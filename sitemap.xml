@@ -3,11 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://petiushko.info/tag/autonomous-driving/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/tag/behavior/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/foundation-model/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/middle-mile/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/talk/2024/09/24/2024-09-24/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/odd/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/perception/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/event/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/route/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/safety/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/self-driving/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tags/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/validation/</loc>
+    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/talk/2024/06/18/2024-06-18/</loc>
@@ -30,27 +74,11 @@
     <lastmod>2024-06-18T11:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/event/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/reinforcement-learning/</loc>
     <lastmod>2024-06-18T11:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/safety/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tag/self-driving/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/simulation/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tags/</loc>
     <lastmod>2024-06-18T11:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -234,10 +262,6 @@
     <lastmod>2023-12-14T14:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/perception/</loc>
-    <lastmod>2023-12-14T14:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/scaling-law/</loc>
     <lastmod>2023-12-14T14:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -403,10 +427,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/tag/dataset/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tag/foundation-model/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
