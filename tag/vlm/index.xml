@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VLM | Dr.Alex</title>
+    <link>https://petiushko.info/tag/vlm/</link>
+      <atom:link href="https://petiushko.info/tag/vlm/index.xml" rel="self" type="application/rss+xml" />
+    <description>VLM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
+      <title>VLM</title>
+      <link>https://petiushko.info/tag/vlm/</link>
+    </image>
+    
+    <item>
+      <title>SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models</title>
+      <link>https://petiushko.info/publication/arxiv_2025_safeauto/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2025_safeauto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

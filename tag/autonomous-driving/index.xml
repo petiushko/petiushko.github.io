@@ -5,12 +5,46 @@
     <link>https://petiushko.info/tag/autonomous-driving/</link>
       <atom:link href="https://petiushko.info/tag/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Driving</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2024 10:20:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 15:45:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Autonomous Driving</title>
       <link>https://petiushko.info/tag/autonomous-driving/</link>
     </image>
+    
+    <item>
+      <title>ML4AD Best Papers Award Ceremony</title>
+      <link>https://petiushko.info/talk/2025/03/04/2025-03-04-2/</link>
+      <pubDate>Tue, 04 Mar 2025 15:45:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/2025/03/04/2025-03-04-2/</guid>
+      <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://ml4ad.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning for Autonomous Driving&lt;/a&gt; (ML4AD) at the &lt;a href=&#34;https://aaai.org/conference/aaai/aaai-25/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI Conference on Artificial Intelligence&lt;/a&gt; (AAAI) 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Mapping Solutions</title>
+      <link>https://petiushko.info/talk/2025/03/04/2025-03-04-1/</link>
+      <pubDate>Tue, 04 Mar 2025 08:20:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/2025/03/04/2025-03-04-1/</guid>
+      <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://sites.google.com/ucr.edu/cooolsworkshop/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Out-of-Label Hazards in Autonomous Driving&lt;/a&gt; (COOOL) at the &lt;a href=&#34;https://wacv2025.thecvf.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE/CVF Winter Conference on Applications of Computer Vision &lt;/a&gt; (WACV) 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models</title>
+      <link>https://petiushko.info/publication/arxiv_2025_safeauto/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/arxiv_2025_safeauto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffScene: Diffusion-Based Safety-Critical Scenario Generation for Autonomous Vehicles</title>
+      <link>https://petiushko.info/publication/conf_2025_diffscene/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2025_diffscene/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Middle Mile and Foundation Models</title>

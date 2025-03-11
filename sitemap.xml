@@ -3,18 +3,150 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://petiushko.info/tag/autonomous-driving/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/award/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/tag/behavior/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/foundation-model/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
+    <loc>https://petiushko.info/tag/best-paper/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/deep-learning/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/tag/middle-mile/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/talk/2025/03/04/2025-03-04-2/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/perception/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/event/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tags/</loc>
+    <lastmod>2025-03-04T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/cost/</loc>
+    <lastmod>2025-03-04T08:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/efficiency/</loc>
+    <lastmod>2025-03-04T08:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/talk/2025/03/04/2025-03-04-1/</loc>
+    <lastmod>2025-03-04T08:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/mapping/</loc>
+    <lastmod>2025-03-04T08:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/safety/</loc>
+    <lastmod>2025-03-04T08:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/publication-type/3/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/language/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/loss-function/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/markov-logic-network/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/mln/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/multi-modality/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/planning/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/publication_types/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/publication/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/rag/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/retrieval-augmented-generation/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/publication/arxiv_2025_safeauto/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/vision-language-model/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/vlm/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/publication-type/1/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/adversarial-agent/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/publication/conf_2025_diffscene/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/diffusion/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/guided-diffusion/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/realism/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/scenario-generation/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://petiushko.info/tag/foundation-model/</loc>
     <lastmod>2024-09-24T10:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,27 +158,11 @@
     <lastmod>2024-09-24T10:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/perception/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/event/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/route/</loc>
     <lastmod>2024-09-24T10:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/safety/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/self-driving/</loc>
-    <lastmod>2024-09-24T10:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tags/</loc>
     <lastmod>2024-09-24T10:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,10 +182,6 @@
     <lastmod>2024-06-18T11:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/planning/</loc>
-    <lastmod>2024-06-18T11:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/prediction/</loc>
     <lastmod>2024-06-18T11:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,23 +198,7 @@
     <lastmod>2024-06-18T11:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/publication-type/3/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/publication/arxiv_2024_cimrl/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tag/deep-learning/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/publication_types/</loc>
-    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/publication/</loc>
     <lastmod>2024-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -270,10 +366,6 @@
     <lastmod>2023-12-14T14:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/publication-type/1/</loc>
-    <lastmod>2023-12-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/tag/multi-constraint/</loc>
     <lastmod>2023-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -330,19 +422,11 @@
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/diffusion/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/publication-type/2/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/tag/computer-vision/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tag/multi-modality/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -658,10 +742,6 @@
     <lastmod>2021-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://petiushko.info/tag/efficiency/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://petiushko.info/talk/2021/10/30/2021-10-30/</loc>
     <lastmod>2021-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -695,10 +775,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://petiushko.info/tag/control/</loc>
-    <lastmod>2021-07-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://petiushko.info/tag/mapping/</loc>
     <lastmod>2021-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

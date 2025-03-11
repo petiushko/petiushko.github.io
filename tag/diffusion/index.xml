@@ -5,12 +5,20 @@
     <link>https://petiushko.info/tag/diffusion/</link>
       <atom:link href="https://petiushko.info/tag/diffusion/index.xml" rel="self" type="application/rss+xml" />
     <description>Diffusion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Diffusion</title>
       <link>https://petiushko.info/tag/diffusion/</link>
     </image>
+    
+    <item>
+      <title>DiffScene: Diffusion-Based Safety-Critical Scenario Generation for Autonomous Vehicles</title>
+      <link>https://petiushko.info/publication/conf_2025_diffscene/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/publication/conf_2025_diffscene/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Autonomous Driving: From Basics to Behavior Challenges</title>
