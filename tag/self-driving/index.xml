@@ -5,12 +5,21 @@
     <link>https://petiushko.info/tag/self-driving/</link>
       <atom:link href="https://petiushko.info/tag/self-driving/index.xml" rel="self" type="application/rss+xml" />
     <description>Self-driving</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Self-driving</title>
       <link>https://petiushko.info/tag/self-driving/</link>
     </image>
+    
+    <item>
+      <title>Autonomous Driving: Introduction, Technologies, and the Planning Problem</title>
+      <link>https://petiushko.info/talk/2025/08/16/2025-08-16/</link>
+      <pubDate>Sat, 16 Aug 2025 16:00:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/2025/08/16/2025-08-16/</guid>
+      <description>&lt;p&gt;Presentation at Lectorium &lt;a href=&#34;https://it-picnic.ru/lectorium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science in the Hands of Engineers&lt;/a&gt; at the &lt;a href=&#34;https://it-picnic.ru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IT Picninc&lt;/a&gt; 2025.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Uncertainty and Safety In Autonomous Driving</title>
