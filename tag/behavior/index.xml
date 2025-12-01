@@ -5,12 +5,21 @@
     <link>https://petiushko.info/tag/behavior/</link>
       <atom:link href="https://petiushko.info/tag/behavior/index.xml" rel="self" type="application/rss+xml" />
     <description>Behavior</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 10:30:00 +0000</lastBuildDate>
     <image>
       <url>https://petiushko.info/media/icon_huae623f1b5ebb59ec0111ba78b368ef88_4881_512x512_fill_lanczos_center_3.png</url>
       <title>Behavior</title>
       <link>https://petiushko.info/tag/behavior/</link>
     </image>
+    
+    <item>
+      <title>Safe Planning in Autonomous Driving</title>
+      <link>https://petiushko.info/talk/2025/11/18/2025-11-18/</link>
+      <pubDate>Tue, 18 Nov 2025 10:30:00 +0000</pubDate>
+      <guid>https://petiushko.info/talk/2025/11/18/2025-11-18/</guid>
+      <description>&lt;p&gt;Presentation at Workshop on &lt;a href=&#34;https://drivex-workshop.github.io/itsc2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundation Models for V2X Cooperative Autonomous Driving&lt;/a&gt; (DriveX) at the &lt;a href=&#34;https://ieee-itsc.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Intelligent Transportation Systems&lt;/a&gt; (ITSC) 2025.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Autonomous Driving: Introduction, Technologies, and the Planning Problem</title>
